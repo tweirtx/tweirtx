@@ -13,3 +13,5 @@ Check out my repositories to learn more about what I do!
 <a href='https://ko-fi.com/tweirtx' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 
 
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tweirtx&layout=compact)

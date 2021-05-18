@@ -8,6 +8,8 @@ amateur radio space, so picking it up will be a great addition to my skillset.
 While donations are not obligatory or required, they are greatly appreciated. I maintain several server platforms to host
 my various projects, and those costs add up.
 
+Check out my repositories to learn more about what I do!
+
 <a href='https://ko-fi.com/tweirtx' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 
-Check out my repositories to learn more about what I do!
+

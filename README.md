@@ -14,4 +14,4 @@ Check out my repositories to learn more about what I do!
 
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tweirtx&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tweirtx&layout=compact)
